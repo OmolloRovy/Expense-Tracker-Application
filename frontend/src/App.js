@@ -18,9 +18,7 @@ function App() {
 
   const displayData = () => {
     switch(active){
-      // case 1:
-      //   return <Singin />
-      case 1:
+       case 1:
         return <Dashboard/>
         case 2:
           return <Dashboard />
