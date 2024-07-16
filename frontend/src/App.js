@@ -40,6 +40,7 @@ function App() {
   }, []);
 
   return (
+    
     <ClerkProvider>
       <AppStyled bg={bg} className="App">
         {orbMemo}
