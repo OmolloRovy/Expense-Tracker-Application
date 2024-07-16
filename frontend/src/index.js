@@ -4,7 +4,9 @@ import App from './App';
 import { GlobalProvider } from './context/globalContext';
 import { GlobalStyle } from './styles/GlobalStyle';
 import { ClerkProvider } from "@clerk/clerk-react";
-import { PUBLISHABLE_KEY } from './config.js'; 
+
+const PUBLISHABLE_KEY = import.meta.env.VITE_CLERK_PUBLISHABLE_KEY 
+
 if (!PUBLISHABLE_KEY) {
   throw new Error("Missing Publishable Key");
 }
