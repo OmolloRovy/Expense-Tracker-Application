@@ -3,7 +3,7 @@
 
 This repository contains the frontend for an expense tracker application built using the MERN stack (MongoDB, Express.js, React, Node.js).
 
-Features:
+## Features:
 
 Dashboard:
 Overview of total expenses, income, and savings.
