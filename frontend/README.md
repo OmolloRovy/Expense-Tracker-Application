@@ -29,7 +29,7 @@ Account settings and personalized views.
 Bash
 
 git clone <repository_url>
-#### Install dependencies:
+#### Install the dependencies:
 Bash
 
 cd expense-tracker-frontend
@@ -38,7 +38,7 @@ npm install
 Bash
 
 npm start
-The application will be accessible at http://localhost:3000 (or the specified port).
+The application will be accessible at http://localhost:3000.
 #### Contributing:
 
 Contributions are welcome! Please refer to the contributing guidelines for more information.
