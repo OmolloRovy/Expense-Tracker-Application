@@ -25,7 +25,7 @@ Account settings and personalized views.
 [Testing Framework (if used)]: Jest, React Testing Library, etc.
 ### Getting Started:
 
-Clone the repository:
+#### Clone the repository:
 Bash
 
 git clone <repository_url>
