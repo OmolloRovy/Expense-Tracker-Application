@@ -23,7 +23,7 @@ Account settings and personalized views.
 [State Management Library (if used)]: Redux, Zustand, or similar.
 [Styling Library (if used)]: styled-components, Emotion, or CSS.
 [Testing Framework (if used)]: Jest, React Testing Library, etc.
-Getting Started:
+### Getting Started:
 
 Clone the repository:
 Bash
