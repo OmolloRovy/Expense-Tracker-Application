@@ -45,5 +45,4 @@ Contributions are welcome! Please refer to the contributing guidelines for more 
 
 #### License:
 
-This project is licensed under the 1  [License Name] - see the LICENSE file for details. 
-
+This project is currently 
