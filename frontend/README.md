@@ -11,7 +11,7 @@ Visualizations of spending trends.
  ### Transaction Management:
 Add, edit, and delete expenses/income entries.
 Filter and sort transactions by date, category, and more.
-Budgeting:
+### Budgeting:
 Set budget limits and track progress towards goals.
 Reporting:
 Generate customizable reports in various formats.
