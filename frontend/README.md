@@ -29,7 +29,7 @@ Account settings and personalized views.
 Bash
 
 git clone <repository_url>
-Install dependencies:
+#### Install dependencies:
 Bash
 
 cd expense-tracker-frontend
