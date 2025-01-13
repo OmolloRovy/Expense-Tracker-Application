@@ -5,7 +5,7 @@ This repository contains the frontend for an expense tracker application built u
 
 ## Features:
 
-Dashboard:
+### Dashboard:
 Overview of total expenses, income, and savings.
 Visualizations of spending trends.
 Transaction Management:
