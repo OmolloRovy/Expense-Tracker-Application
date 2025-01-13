@@ -43,7 +43,7 @@ The application will be accessible at http://localhost:3000 (or the specified po
 
 Contributions are welcome! Please refer to the contributing guidelines for more information.
 
-License:
+#### License:
 
 This project is licensed under the 1  [License Name] - see the LICENSE file for details. 
 
