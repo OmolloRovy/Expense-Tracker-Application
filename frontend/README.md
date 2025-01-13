@@ -19,7 +19,7 @@ Generate customizable reports in various formats.
 Account settings and personalized views.
 ### Technologies:
 
-React: For building the user interface.
+### React: For building the user interface.
 [State Management Library (if used)]: Redux, Zustand, or similar.
 [Styling Library (if used)]: styled-components, Emotion, or CSS.
 [Testing Framework (if used)]: Jest, React Testing Library, etc.
