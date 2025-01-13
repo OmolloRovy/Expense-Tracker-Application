@@ -13,7 +13,7 @@ Add, edit, and delete expenses/income entries.
 Filter and sort transactions by date, category, and more.
 ### Budgeting:
 Set budget limits and track progress towards goals.
-Reporting:
+### Reporting:
 Generate customizable reports in various formats.
 User Profile:
 Account settings and personalized views.
