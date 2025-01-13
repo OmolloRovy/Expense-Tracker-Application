@@ -34,7 +34,7 @@ Bash
 
 cd expense-tracker-frontend
 npm install
-Start the development server:
+#### Start the development server:
 Bash
 
 npm start
