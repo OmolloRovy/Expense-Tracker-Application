@@ -39,7 +39,7 @@ Bash
 
 npm start
 The application will be accessible at http://localhost:3000 (or the specified port).
-Contributing:
+#### Contributing:
 
 Contributions are welcome! Please refer to the contributing guidelines for more information.
 
