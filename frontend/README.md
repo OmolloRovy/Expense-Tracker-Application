@@ -15,9 +15,9 @@ Filter and sort transactions by date, category, and more.
 Set budget limits and track progress towards goals.
 ### Reporting:
 Generate customizable reports in various formats.
-User Profile:
+### User Profile:
 Account settings and personalized views.
-Technologies:
+### Technologies:
 
 React: For building the user interface.
 [State Management Library (if used)]: Redux, Zustand, or similar.
