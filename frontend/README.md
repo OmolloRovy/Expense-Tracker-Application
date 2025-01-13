@@ -8,7 +8,7 @@ This repository contains the frontend for an expense tracker application built u
 ### Dashboard:
 Overview of total expenses, income, and savings.
 Visualizations of spending trends.
-Transaction Management:
+ ### Transaction Management:
 Add, edit, and delete expenses/income entries.
 Filter and sort transactions by date, category, and more.
 Budgeting:
