@@ -29,11 +29,12 @@ This repository contains the backend for an expense tracker application built us
    ```bash
    git clone <repository_url>
 Install dependencies:
-Bash
+```Bash
 
 cd expense-tracker-backend
 npm install
-Configure environment variables:
+
+2.**Configure environment variables:**
 Create a .env file in the project root.
 Add environment variables like:
 MONGODB_URI: MongoDB connection string.
