@@ -28,25 +28,25 @@ This repository contains the backend for an expense tracker application built us
 1. **Clone the repository:**
    ```bash
    git clone <repository_url>
-Install dependencies:
-```Bash
-
+2. **Install dependencies:**
+```bash
 cd expense-tracker-backend
 npm install
 
-2.**Configure environment variables:**
-Create a .env file in the project root.
-Add environment variables like:
-MONGODB_URI: MongoDB connection string.
-JWT_SECRET: Secret key for JWT signing.
-Example:
+3. **Configure environment variables:**
+*Create a .env file in the project root.
+*Add environment variables like:
+*MONGODB_URI: MongoDB connection string.
+*JWT_SECRET: Secret key for JWT signing.
+*Example:
 MONGODB_URI=mongodb://<username>:<password>@<host>:<port>/<database_name>
 JWT_SECRET=your_secret_key
 Start the server:
-Bash
+```Bash
 
 npm start
 The server will be listening on the specified port (default: 3001).
-Contributing:
+
+ **Contributing:**
 
 Contributions are welcome! Please refer to the contributing guidelines for more information.
