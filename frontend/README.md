@@ -1,4 +1,4 @@
-```markdown
+
 # Expense Tracker Application - Frontend
 
 This repository contains the frontend for an expense tracker application built using the MERN stack (MongoDB, Express.js, React, Node.js).
