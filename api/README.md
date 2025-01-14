@@ -1,4 +1,4 @@
-```markdown
+
 # Expense Tracker Application - Backend
 
 This repository contains the backend for an expense tracker application built using the MERN stack (MongoDB, Express.js, React, Node.js).
