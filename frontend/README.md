@@ -51,14 +51,3 @@ Contributions are welcome! Please refer to the contributing guidelines for more 
 This project is currently an open source 
 ```
 
-**Key Changes:**
-
-* **Consistent Heading Levels:** Used `#` for the main title, `##` for sections (Features, Technologies, Getting Started, etc.), and avoided nested headings within sections.
-* **Improved Formatting:** 
-    * Removed unnecessary indentation and line breaks.
-    * Used consistent spacing and bullet points for better readability.
-    * Corrected the `Bash` code block to be consistent with other code blocks.
-* **Removed Unnecessary Elements:** Removed the `###` headings within the `## Features` section as they were redundant.
-
-This improved README file is more concise, easier to read, and adheres to standard Markdown conventions.
-
