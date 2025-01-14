@@ -49,5 +49,4 @@ Contributions are welcome! Please refer to the contributing guidelines for more 
 ## License
 
 This project is currently an open source 
-```
 
