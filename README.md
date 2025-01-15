@@ -1,8 +1,5 @@
 
 
-
-This combined README file provides a clear and concise overview of both the frontend and backend components of the Expense Tracker Application. 
-
 **Key Improvements:**
 
 * **Combined Overview:** Presents a unified view of the entire application.
