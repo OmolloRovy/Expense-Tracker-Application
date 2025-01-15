@@ -1,7 +1,4 @@
 
-
-**Key
-```markdown
 # Expense Tracker Application
 
 This repository houses the complete Expense Tracker Application, encompassing both the frontend and backend components.
