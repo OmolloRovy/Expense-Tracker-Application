@@ -98,4 +98,4 @@ This portion resides in the `expense-tracker-backend` directory.
 
 ## Contributing
 
-Contributions are welcome! Please refer to the contributing guidelines for more information.
+Contributions are welcome! 
