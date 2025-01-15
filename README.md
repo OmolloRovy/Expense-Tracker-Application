@@ -100,9 +100,5 @@ This portion resides in the `expense-tracker-backend` directory.
 
 Contributions are welcome! Please refer to the contributing guidelines for more information.
 
-## License
-
-This project is licensed under the [License Name] - see the LICENSE file for details.
-```
 
 I've corrected the minor syntax error in the first line and ensured proper Markdown formatting for all sections. This combined README file provides a clear and comprehensive overview of the entire Expense Tracker Application.
