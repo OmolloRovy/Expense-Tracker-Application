@@ -44,9 +44,7 @@ This repository contains the frontend for an expense tracker application built u
 
 ## Contributing
 
-Contributions are welcome! Please refer to the contributing guidelines for more information.
-
+Contributions are welcome! 
 ## License
 
-This project is currently an open source 
-
+This project is currently an open source
